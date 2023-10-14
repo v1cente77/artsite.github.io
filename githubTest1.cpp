@@ -5,8 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!";   // comment 2
-    std::cout << "viva forever";   // comment on viva
+    std::cout << "aartSIte" << std::endl;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
